@@ -1,4 +1,19 @@
 {
   "name":"gaomingcode/bootstrap.tagsinput",
-  "type": "library"
+    "description": "jQuery tags input plugin based on Twitter Bootstrap. ",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "bootstrap", "tagsinput"
+    ],
+    "homepage": "http://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Tim Schlechter"
+        }
+    ]
 }
