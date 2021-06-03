@@ -1,4 +1,18 @@
-# Bootstrap Tags Input [![Build Status](https://travis-ci.org/bootstrap-tagsinput/bootstrap-tagsinput.svg?branch=master)](https://travis-ci.org/bootstrap-tagsinput/bootstrap-tagsinput)
+# Bootstrap Tags Input
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/bootstrap-tagsinput.svg)](https://github.com/gaomingcode/bootstrap-tagsinput)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/bootstrap.tagsinput)](https://github.com/gaomingcode/bootstrap-tagsinput)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/bootstrap.tagsinput)](https://github.com/gaomingcode/bootstrap-tagsinput)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/bootstrap.tagsinput
+```
+###
+
 Bootstrap Tags Input is a jQuery plugin providing a Twitter Bootstrap user interface for managing tags.
 
 Current stable version: **v0.8.0**
